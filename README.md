@@ -12,6 +12,6 @@ Navigate to the project directory and run the command `make` in the terminal.
 
 ## Running the project
 
-Type the command `./fillit` that takes a file name for an argument, and supplement it with one. See the file `example` in the project directory to get an idea of how information in the file should be composed in order to be considered a valid file for the argument. The program will display `error` in the terminal if the file is not valid.
+Type the command `./fillit` that takes a file name for an argument, and supplement it with one. See the file `example` in the project directory to get an idea of how information in the file should be composed in order for it to be considered a valid file for the argument. The program will display `error` in the terminal if the file is not valid.
 
 The `example` file can also be used to test the working of the program. In order to do that, run the command `./fillit example` in the terminal.
